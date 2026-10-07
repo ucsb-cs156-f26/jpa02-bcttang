@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-f26/jpa02-bcttang
 
-Deployed at: https://jpa02-bcttang.dokku-13.cs.ucsb.edu/info
+Deployed at: https://jpa02-bcttang.dokku-13.cs.ucsb.edu
 
 # About this repo
 
